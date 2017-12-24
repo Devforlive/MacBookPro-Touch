@@ -2,6 +2,9 @@
 
 <h2>New MacBook Pro Touch</h2>
 
+##Demo 
+####https://devforlive.github.io/MacBookPro-Touch/
+
 jQuery.HSlider
 ==============
 
